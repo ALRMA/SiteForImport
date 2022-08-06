@@ -2,4 +2,4 @@
 *_backup
 .DS_Store
 tmp/
-img/*_Thumbs
+Thumbs.db
