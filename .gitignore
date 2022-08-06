@@ -1,5 +1,5 @@
 *_old
 *_backup
-*.DS_Store
+.DS_Store
 tmp/
 img/*_Thumbs
